@@ -1,8 +1,8 @@
-# CSV-Visualizer: A Serverless, Client-Side Data Visualization PWA
+# DataScribe: A Serverless, Client-Side Data Visualization PWA
 
 ## Overview
 
-CSV-Visualizer is a high-performance, single-page application that provides instant data visualization from CSV files. It operates entirely on the client-side, making it a powerful tool for rapid analysis without data privacy compromises or server-side dependencies. The architecture is intentionally serverless, ensuring zero latency from network requests post-load and complete data security, as no user data is ever transmitted.
+DataScribe is a high-performance, single-page application that provides instant data visualization from CSV files. It operates entirely on the client-side, making it a powerful tool for rapid analysis without data privacy compromises or server-side dependencies. The architecture is intentionally serverless, ensuring zero latency from network requests post-load and complete data security, as no user data is ever transmitted.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -48,12 +48,12 @@ No build tools or dependencies are required for this project.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/csv-visualizer.git](https://github.com/your-username/csv-visualizer.git)
+    git clone [https://github.com/your-username/DataScribe.git](https://github.com/your-username/DataScribe.git)
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd csv-visualizer
+    cd DataScribe
     ```
 
 3.  **Serve `index.html`:**
